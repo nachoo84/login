@@ -92,9 +92,9 @@ button {
 
 .container-image{
     width: 50%;
-    background-image: url(https://cdn141.picsart.com/309256231011211.png?to=crop&type=webp&r=1456x1581&q=85);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    border-radius: 30px;
+   
+}
+img {
+
+    width: 50%;
 }
